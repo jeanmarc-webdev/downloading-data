@@ -55,3 +55,12 @@ Project is for learning Python data visualization
 LICENSE
 
 This project is for personal and educational use
+
+---
+
+## Portfolio
+
+This project is part of my Python learning portfolio.
+
+View full portfolio:  
+https://github.com/jeanmarc-webdev/downloading-data-portfolio
